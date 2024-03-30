@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\DELL\source\repos\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\DELL\source\repos\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\DELL\source\repos\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\DELL\source\repos\Sorting\Sorting\obj\Debug\Sorting.pdb
